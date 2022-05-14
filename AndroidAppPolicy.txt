@@ -2,13 +2,13 @@ Whey Protein Calculator: Privacy policy
 
 Welcome to the Protein Price Calculator app for Android!
 
-This is an app is used to find out if the protein price is reasonable or not.
+This app is used to find out if the protein price is reasonable or not. I am always on the hunt for products that has the best price to protein ratio. :)
 
 The data entered on the app isn't transmitted elsewhere and stays only within the app.
 
 No personally identifiable information is transmitted elsewhere. All data entered is used by your device only.
 
-If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protecte your privacy, please send me an email and I will surely try to fix it/help you.
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protects your privacy, please send me an email.
 
 Yours sincerely,
 Jeff
